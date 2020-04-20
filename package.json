@@ -1,0 +1,19 @@
+{
+  "name": "holler-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patjonstevenson/holler-be.git"
+  },
+  "author": "Patrick Stevenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patjonstevenson/holler-be/issues"
+  },
+  "homepage": "https://github.com/patjonstevenson/holler-be#readme"
+}
